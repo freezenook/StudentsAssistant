@@ -12,7 +12,7 @@
         android:layout_gravity="center"
         android:layout_alignParentTop="true"
         android:id="@+id/imageLogo"
-        android:src="@drawable/MSAlogo"/>
+        android:src="@drawable/msa_logo"/>
 
     <LinearLayout
         android:layout_width="match_parent"
